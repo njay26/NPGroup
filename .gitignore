@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/NPGroup/packages
+/NPGroup/.vs
+/NPGroup/NPGroupWeb/bin
